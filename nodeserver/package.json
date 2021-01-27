@@ -1,0 +1,23 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "this is node server for our ichat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pawan",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^3.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawan-dot/real-time-chat-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pawan-dot/real-time-chat-app/issues"
+  },
+  "homepage": "https://github.com/pawan-dot/real-time-chat-app#readme"
+}
